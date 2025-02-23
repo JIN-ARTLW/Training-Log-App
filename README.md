@@ -1,5 +1,6 @@
 # Training Log App
 러닝 기반 운동/훈련 일지 작성용 mac앱
+download : https://github.com/JIN-ARTLW/Training-Log-App/releases/tag/1.0
 
 
 사용자가 개인의 트레이닝(운동, 학습 등) 기록을 손쉽게 관리할 수 있도록 돕는 macOS 앱
